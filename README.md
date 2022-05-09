@@ -1,0 +1,5 @@
+- I'm @MasterMCerGH
+- I'm interested in modding Terraria and making everything over-overpowered.
+- I’m currently learning C# (or whatever .cs is coded in)
+- I’m looking to collaborate on TML
+- How to reach me: (N/A)
