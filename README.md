@@ -1,5 +1,5 @@
 - I'm @MasterMCerGH
 - I'm interested in modding Terraria and making everything over-overpowered.
-- I’m currently learning C# (or whatever .cs is coded in)
+- I’m currently learning C# and Python
 - I’m looking to collaborate on nothing atm
-- How to reach me: (N/A)
+- How to reach me: rjchou@icloud.com
