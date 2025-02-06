@@ -1,4 +1,2 @@
-- I'm @ChedRed
-- I'm interested in modding games for the worse.
-- I’m currently interested in C++ and Python.
-- How to reach me: rjchou@icloud.com
+- I code.
+- That's about it ¯\_(ツ)_/¯
